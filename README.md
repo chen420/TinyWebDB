@@ -10,3 +10,7 @@ TinyWebDB Protocol:
 |    Store A Value |{ServiceURL}/storeavalue |tag,value        |JSON: ["STORED", "{tag}", {value}]|
 
 Check https://github.com/TinyWebDB for more.
+
+## TinyWebDB test program
+
+TinyWebDb.ipynb ： a jupiter nodebook (python) for API test  
